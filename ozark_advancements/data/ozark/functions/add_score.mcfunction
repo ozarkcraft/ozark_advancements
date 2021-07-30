@@ -1,0 +1,1 @@
+scoreboard players add @s ozark_adv 1

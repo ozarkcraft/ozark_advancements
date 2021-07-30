@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 7,
+    "description": "Adds a scoreboard that increments the amount of advancements completed"
+  }
+}
